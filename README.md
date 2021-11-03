@@ -12,7 +12,7 @@ Manage environment secrets using AWS Secrets Manager.
 You can install the package via composer:
 
 ```bash
-composer require tapp/laravel-aws-secrets-manager
+composer require jootop/laravel-aws-secrets-manager
 ```
 
 Publish Config:
