@@ -1,11 +1,11 @@
 {
-    "name": "tapp/laravel-aws-secrets-manager",
+    "name": "jootop/laravel-aws-secrets-manager",
     "description": "Use AWS Secrets manager to load environment variables for configuration.",
     "keywords": [
-        "tapp",
+        "jootop",
         "laravel-aws-secrets-manager"
     ],
-    "homepage": "https://github.com/tapp/laravel-aws-secrets-manager",
+    "homepage": "https://github.com/jootop/laravel-aws-secrets-manager",
     "license": "MIT",
     "type": "library",
     "authors": [
